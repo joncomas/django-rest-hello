@@ -10,7 +10,7 @@ staticfiles
 # Edit at https://www.gitignore.io/?templates=django,python
 
 ### Django ###
-*.png
+diagram.png
 *.log
 *.pot
 *.pyc
